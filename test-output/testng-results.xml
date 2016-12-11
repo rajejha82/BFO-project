@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2016-11-24T13:30:03Z" finished-at="2016-11-24T13:30:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2016-11-24T13:30:03Z" finished-at="2016-11-24T13:30:03Z">
+      <class name="org.se.bfo.testrunner.LoginLogoutTest">
+        <test-method status="PASS" signature="verifyloginLogout()[pri:0, instance:org.se.bfo.testrunner.LoginLogoutTest@6a2bcfcb]" name="verifyloginLogout" duration-ms="13" started-at="2016-11-24T19:00:03Z" finished-at="2016-11-24T19:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginLogout -->
+      </class> <!-- org.se.bfo.testrunner.LoginLogoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
